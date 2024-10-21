@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/Dictionaries_EPAI/workflows/Python%20Tests/badge.svg?label=passingcolor=greentimestamp=1729536559)
+
 # Dynamic Inventory System Using Nested Dictionaries
 
 ## Overview
